@@ -1,13 +1,36 @@
 
-Hi there 👋
+## Hii... I'm Omkar 👋
 
-🔭 I’m currently working as Software Engineer or Front end developer and developing various user friendly frontEnd web-applciations with variation in tech stack.
+🔭 I’m currently working as Software Engineer or Front end developer and developing various user friendly front end web-applciations with variation in tech stack, functionality, complexity and business idea.
 
-🌱 I’m currently learning Redux and backend aiming to become a MERN stack developer 😄
+🌱 I’m currently learning Redux(managing and centralizing application data) and backend, further aiming to become a MERN developer 😄
+
+💬 Ask me about FrontEnd (React.js) and being of curious nature I'm always ready to help, find solutions and learn.
 
 ⚡ Fun fact: My transition of skills 😄 => html + css -> Android developer -> Python developer 😄-> Front end developer
 
-📫 How to reach me: omkarsavalkar05@gmail.com
+📫 How to reach me: milind051999@gmail.com
+
+___
+### My Tech Stack
+
+<p align="left"> 
+<a href="https://developer.android.com" target="_blank"> <img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/react/react.png" alt="react" width="40" height="40"/> </a>
+<a href="https://developer.android.com" target="_blank"> <img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png" alt="javascript" width="40" height="40"/> </a>
+<a href="https://developer.android.com" target="_blank"> <img src="https://cdn.iconscout.com/icon/free/png-64/typescript-3521774-2945272.png" alt="typescript" width="40" height="40"/> </a>
+<a href="https://developer.android.com" target="_blank"> <img src="https://cdn.worldvectorlogo.com/logos/material-ui-1.svg" alt="material UI" width="40" height="40"/> </a>
+<a href="https://www.w3.org/html/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a>
+<a href="https://www.w3schools.com/css/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a>
+<a href="https://www.w3.org/html/" target="_blank"> <img src="https://cdn.worldvectorlogo.com/logos/redux.svg" alt="redux" width="40" height="40"/> </a>
+<a href="https://developer.android.com" target="_blank"> <img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/nodejs/nodejs.png" alt="node.js" width="40" height="40"/> </a>
+<a href="https://developer.android.com" target="_blank"> <img src="https://upload.wikimedia.org/wikipedia/commons/8/87/Sql_data_base_with_logo.png?20210130181641" alt="sql" width="80" height="40"/> </a>
+</a> <a href="https://www.python.org" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a>
+<a href="https://www.cprogramming.com/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> </a>
+<a href="https://www.w3schools.com/cpp/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/> </a>
+<a href="https://developer.android.com" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/android/android-original-wordmark.svg" alt="android" width="40" height="40"/> </a>
+<a href="https://firebase.google.com/" target="_blank"> <img src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" alt="firebase" width="40" height="40"/> </a>
+</p>
+
 <!--
 **OmkarSavalkar/OmkarSavalkar** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
