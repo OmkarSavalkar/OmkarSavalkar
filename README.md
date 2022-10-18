@@ -1,7 +1,7 @@
 
 Hi there 👋
 
-🔭 I’m currently working as Software Engineer or Front end developer and developing various user friendly frontEnd web-applciations with lots variation.
+🔭 I’m currently working as Software Engineer or Front end developer and developing various user friendly frontEnd web-applciations with lots of variation in skills.
 
 🌱 I’m currently learning Redux and backend aiming to become a MERN stack developer
 
