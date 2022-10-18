@@ -1,11 +1,11 @@
 
 Hi there 👋
 
-🔭 I’m currently working as Software Engineer or Front end developer and developing various user friendly frontEnd web-applciations with lots of variation in skills.
+🔭 I’m currently working as Software Engineer or Front end developer and developing various user friendly frontEnd web-applciations with variation in tech stack.
 
-🌱 I’m currently learning Redux and backend aiming to become a MERN stack developer
+🌱 I’m currently learning Redux and backend aiming to become a MERN stack developer 😄
 
-⚡ Fun fact: My transition of skills => html + css -> Android developer -> Python developer 😄-> Front end developer
+⚡ Fun fact: My transition of skills 😄 => html + css -> Android developer -> Python developer 😄-> Front end developer
 
 📫 How to reach me: omkarsavalkar05@gmail.com
 <!--
