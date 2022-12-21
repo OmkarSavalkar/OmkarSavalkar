@@ -10,7 +10,7 @@
 
 ⚡ Fun fact: My transition of skills 😄 => html + css -> Android developer -> Python developer 😄-> Front end developer
 
-📫 How to reach me: milind051999@gmail.com
+📫 How to reach me: omkarsavalkar22@gmail.com
 
 ___
 ### My Tech Stack
