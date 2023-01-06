@@ -2,7 +2,7 @@
 ## Hii... I'm Omkar 👋   
 ![](https://visitor-badge.glitch.me/badge?page_id=OmkarSavalkar.OmkarSavalkar)
 
-🔭 I’m currently working as Software Engineer or Front end developer and developing various user friendly front end web-applciations with variation in tech stack, functionality, complexity and business idea.
+🔭 I’m currently working as Software Engineer or Front end developer and developing various user friendly front end web-applciations with variation in tech stack, functionality, complexity and business idea. (Checkout my all repositories to know about my personal projects)
 
 🌱 I’m currently learning Redux(managing and centralizing application data) and backend, further aiming to become a MERN developer 😄
 
