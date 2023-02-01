@@ -1,5 +1,7 @@
 
-## Hii... I'm Omkar 👋   
+## Hii... I'm Omkar 👋
+<a href="https://linkedin.com/in/omkar-savalkar" target="_blank"><img align="left" alt="omkar savalkar | LinkedIn" width="22px" src="https://github.com/Aakarsh-B/trying-repos/blob/master/linkedin.svg" />
+<a href="https://www.instagram.com/omkar.s22" target="_blank"><img align="left" alt="Aakarsh B | Instagram" width="22px" src="https://github.com/Aakarsh-B/trying-repos/blob/master/insta.svg" />
 ![](https://visitor-badge.glitch.me/badge?page_id=OmkarSavalkar.OmkarSavalkar)
 
 🔭 I’m currently working as Software Engineer or Front end developer and developing various user friendly front end web-applciations with variation in tech stack, functionality, complexity and business idea. (Checkout my all repositories to know about my personal projects)
