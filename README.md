@@ -45,7 +45,7 @@
 ### Softwares
 
 <a href="https://visualstudio.microsoft.com/" target="_blank"><img align="left" alt="Visual Studio Code" width="38" height="38" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/visual-studio-code/visual-studio-code.png" /></a>
-<a href="https://www.postman.com/" target="_blank"><img align="left" alt="Visual Studio Code" width="40" height="40" src="https://seeklogo.com/images/P/postman-api-platform-logo-D6B8AB9B0D-seeklogo.com.png" /></a>
+<a href="https://www.postman.com/" target="_blank"><img align="left" alt="Visual Studio Code" width="45" height="40" src="https://seeklogo.com/images/P/postman-api-platform-logo-D6B8AB9B0D-seeklogo.com.png" /></a>
 <a href="https://developer.android.com/studio" target="_blank"> <img align="left" alt="XD" width="40" height="40" src="https://www.freepnglogos.com/uploads/android-logo-png/android-logo-android-studio-appjoy-25.png"/> </a>  
   
 ![Omkar Savalkar](https://raw.githubusercontent.com/Trilokia/Trilokia/379277808c61ef204768a61bbc5d25bc7798ccf1/bottom_header.svg)
