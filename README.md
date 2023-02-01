@@ -1,10 +1,13 @@
 
 ## Hii... I'm Omkar 👋
-<a href="https://linkedin.com/in/omkar-savalkar" target="_blank"><img align="left" alt="omkar savalkar | LinkedIn" width="28" src="https://github.com/Aakarsh-B/trying-repos/blob/master/linkedin.svg" />
-<a href="https://www.instagram.com/omkar.s22" target="_blank"><img align="left" alt="omkar savalkar | Instagram" width="28" src="https://github.com/Aakarsh-B/trying-repos/blob/master/insta.svg" />
+
+
+<a href="https://linkedin.com/in/omkar-savalkar" target="_blank"><img align="left" alt="omkar savalkar | LinkedIn" width="28" src="https://github.com/Aakarsh-B/trying-repos/blob/master/linkedin.svg" /></a>
+<a href="https://www.instagram.com/omkar.s22" target="_blank"><img align="left" alt="omkar savalkar | Instagram" width="28" src="https://github.com/Aakarsh-B/trying-repos/blob/master/insta.svg" /></a>
 <a href="https://omkar-ownwebapp.vercel.app" target="_blank"><img align="left" alt="omkar.me" width="28" src="https://github.com/Aakarsh-B/trying-repos/blob/master/www.svg" /></a>
 ![](https://visitor-badge.glitch.me/badge?page_id=OmkarSavalkar.OmkarSavalkar)
-  
+  <br/>
+<br/>
 
 🔭 I’m currently working as Software Engineer or Front end developer and developing various user friendly front end web-applciations with variation in tech stack, functionality, complexity and business idea. (Checkout my all repositories to know about my personal projects)
 
@@ -15,7 +18,8 @@
 ⚡ Fun fact: My transition of skills 😄 => html + css -> Android developer -> Python developer 😄-> Front end developer
 
 📫 How to reach me: omkarsavalkar22@gmail.com
-
+<br/>
+<br/>
 ___
 ### My Tech Stack
 
@@ -37,13 +41,13 @@ ___
 <a href="https://sass-lang.com/" target="_blank"> <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/96/Sass_Logo_Color.svg/512px-Sass_Logo_Color.svg.png?20150315202757" alt="Sass" width="40" height="40"/> </a>&nbsp
 </p>
 
-### Softwares:
+### Softwares
 
 <a href="https://visualstudio.microsoft.com/" target="_blank"><img align="left" alt="Visual Studio Code" width="38" height="38" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/visual-studio-code/visual-studio-code.png" /></a>
 <a href="https://www.postman.com/" target="_blank"><img align="left" alt="Visual Studio Code" width="40" height="40" src="https://seeklogo.com/images/P/postman-api-platform-logo-D6B8AB9B0D-seeklogo.com.png" /></a>
 <a href="https://developer.android.com/studio" target="_blank"> <img align="left" alt="XD" width="40" height="40" src="https://www.freepnglogos.com/uploads/android-logo-png/android-logo-android-studio-appjoy-25.png"/> </a>  
   
-
+![Omkar Savalkar](https://raw.githubusercontent.com/Trilokia/Trilokia/379277808c61ef204768a61bbc5d25bc7798ccf1/bottom_header.svg)
 <!--
 **OmkarSavalkar/OmkarSavalkar** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
