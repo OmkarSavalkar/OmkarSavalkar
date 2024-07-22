@@ -14,7 +14,7 @@
 
 🌱 I’m currently learning Redux(managing and centralizing application data) and backend, further aiming to become a MERN developer 😄
 
-💬 Ask me about FrontEnd (React.js) and being of curious nature I'm always ready to help, find solutions and learn.
+💬 Ask me about FrontEnd (React.js and Vue.js) and being of curious nature I'm always ready to help, find solutions and learn.
 
 ⚡ Fun fact: My transition of skills 😄 => html + css -> Android developer -> Python developer 😄-> Front end developer
 
@@ -26,14 +26,15 @@
 
 <p align="left"> 
 <a href="https://developer.android.com" target="_blank"> <img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/react/react.png" alt="react" width="40" height="40"/> </a>&nbsp
+<a href="https://developer.android.com" target="_blank"> <img src="https://play.vuejs.org/logo.svg" alt="vue" width="40" height="40"/> </a>&nbsp
 <a href="https://developer.android.com" target="_blank"> <img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png" alt="javascript" width="40" height="40"/> </a>&nbsp
 <a href="https://developer.android.com" target="_blank"> <img src="https://cdn.iconscout.com/icon/free/png-64/typescript-3521774-2945272.png" alt="typescript" width="40" height="40"/> </a>&nbsp
+<a href="https://developer.android.com" target="_blank"> <img src="https://uxwing.com/wp-content/themes/uxwing/download/brands-and-social-media/nextjs-icon.png" alt="nextjs" width="40" height="40"/> </a>&nbsp
 <a href="https://developer.android.com" target="_blank"> <img src="https://cdn.worldvectorlogo.com/logos/material-ui-1.svg" alt="material UI" width="40" height="40"/> </a>&nbsp
 <a href="https://www.w3.org/html/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a>&nbsp
 <a href="https://www.w3schools.com/css/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a>&nbsp
 <a href="https://www.w3.org/html/" target="_blank"> <img src="https://cdn.worldvectorlogo.com/logos/redux.svg" alt="redux" width="40" height="40"/> </a>&nbsp
 <a href="https://developer.android.com" target="_blank"> <img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/nodejs/nodejs.png" alt="node.js" width="40" height="40"/> </a>&nbsp
-<a href="https://developer.android.com" target="_blank"> <img src="https://www.rlogical.com/wp-content/uploads/2021/08/Rlogical-Blog-Images-thumbnail.png" alt="nextjs" width="40" height="40"/> </a>&nbsp
 </a> <a href="https://www.python.org" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a>&nbsp
 <a href="https://www.w3schools.com/cpp/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/> </a>&nbsp
 <a href="https://developer.android.com" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/android/android-original-wordmark.svg" alt="android" width="40" height="40"/> </a>&nbsp
