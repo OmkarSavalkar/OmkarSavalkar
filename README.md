@@ -2,7 +2,6 @@
 ## 👋 <i align="center">Hii... I'm <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=mv+boli&weight=700&size=37&duration=4000&pause=3000&color=4B80F7&vCenter=true&multiline=true&width=300&lines=Omkar+Savalkar" alt="Typing SVG" /></a></i>
 
 <a href="https://linkedin.com/in/omkar-savalkar" target="_blank"><img align="left" alt="omkar savalkar | LinkedIn" width="28" src="https://github.com/Aakarsh-B/trying-repos/blob/master/linkedin.svg" /></a>
-<a href="https://www.instagram.com/omkar.s22" target="_blank"><img align="left" alt="omkar savalkar | Instagram" width="28" src="https://github.com/Aakarsh-B/trying-repos/blob/master/insta.svg" /></a>
 <a href="https://omkar-ownwebapp.vercel.app" target="_blank"><img align="left" alt="omkar.me" width="28" src="https://github.com/Aakarsh-B/trying-repos/blob/master/www.svg" /></a>
 ![](https://api.visitorbadge.io/api/VisitorHit?user=estruyf&repo=github-visitors-badge&countColor=%237B1E7A)
 <br/>
