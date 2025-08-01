@@ -32,18 +32,14 @@
 <a href="https://www.w3schools.com/css/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a>&nbsp
 <a href="https://www.w3.org/html/" target="_blank"> <img src="https://cdn.worldvectorlogo.com/logos/redux.svg" alt="redux" width="40" height="40"/> </a>&nbsp
 <a href="https://developer.android.com" target="_blank"> <img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/nodejs/nodejs.png" alt="node.js" width="40" height="40"/> </a>&nbsp
-</a> <a href="https://www.python.org" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a>&nbsp
-<a href="https://www.w3schools.com/cpp/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/> </a>&nbsp
-<a href="https://developer.android.com" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/android/android-original-wordmark.svg" alt="android" width="40" height="40"/> </a>&nbsp
 <a href="https://firebase.google.com/" target="_blank"> <img src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" alt="firebase" width="40" height="40"/> </a>&nbsp
-<a href="https://www.mongodb.com/home" target="_blank"> <img src="https://img.icons8.com/color/512/mongodb.png" alt="mongodb" width="40" height="40"/> </a>&nbsp
 <a href="https://sass-lang.com/" target="_blank"> <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/96/Sass_Logo_Color.svg/512px-Sass_Logo_Color.svg.png?20150315202757" alt="Sass" width="40" height="40"/> </a>&nbsp
 </p>
 
 ### Softwares
 
 <a href="https://visualstudio.microsoft.com/" target="_blank"><img align="left" alt="Visual Studio Code" width="38" height="38" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/visual-studio-code/visual-studio-code.png" /></a>
-<a href="https://www.postman.com/" target="_blank"><img align="left" alt="Visual Studio Code" width="45" height="40" src="https://seeklogo.com/images/P/postman-api-platform-logo-D6B8AB9B0D-seeklogo.com.png" /></a>
+<a href="https://www.postman.com/" target="_blank"><img align="left" alt="Visual Studio Code" width="45" height="40" src="https://developers.ila.cegid.com/wp-content/uploads/Postman-1.png" /></a>
 <a href="https://developer.android.com/studio" target="_blank"> <img align="left" alt="XD" width="40" height="40" src="https://www.freepnglogos.com/uploads/android-logo-png/android-logo-android-studio-appjoy-25.png"/> </a>  
   
 ![Omkar Savalkar](https://raw.githubusercontent.com/Trilokia/Trilokia/379277808c61ef204768a61bbc5d25bc7798ccf1/bottom_header.svg)
